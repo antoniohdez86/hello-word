@@ -12,6 +12,10 @@ Descripcion de la sección
 
 Descripcion de la sección
 
+# Sección 3
+
+Descripcion de la sección
+
 # Sección N
 
 Descripcion de la sección
